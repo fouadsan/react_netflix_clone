@@ -1,5 +1,5 @@
 # react_netflix_clone
-Netflix Clone Using React JS &amp; Firebase
+Netflix Clone Using React JS
 
 ## Additional Packages:
 
