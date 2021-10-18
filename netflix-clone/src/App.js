@@ -2,13 +2,13 @@ import logo from './logo.svg';
 import './App.css';
 import Row from './Row';
 import requests from './requests'
+import Nav from './Nav';
 import Banner from './Banner.js'
 
 function App() {
   return (
     <div className="App">
-      <h1>netflix clone</h1>
-      {/* Nav */}
+      <Nav />
       <Banner />
       <Row 
         title="NETFLIX ORIGINALS"
