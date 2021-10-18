@@ -1,10 +1,10 @@
 # react_netflix_clone
 Netflix Clone Using React JS &amp; Firebase
 
-# Additional Packages:
+## Additional Packages:
 
-## react-youtube:
+### react-youtube:
 run: npm install react-youtube
 
-## movie-trailer:
+### movie-trailer:
 run: npm --save install movie-trailer
